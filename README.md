@@ -32,6 +32,7 @@ This repository highlights my progress in cybersecurity certifications and learn
     - Intro to Networking  
     - Secure Fundamentals  
     - Cyber 101  
+    
   </details>
 
   <details>
@@ -40,6 +41,7 @@ This repository highlights my progress in cybersecurity certifications and learn
     - Threat Hunting  
     - Splunk  
     - Incident Response  
+    
   </details>
 
   <details>
@@ -47,6 +49,7 @@ This repository highlights my progress in cybersecurity certifications and learn
     - Amazon Web Services  
     - Incident Response & Forensics in AWS  
     - Top 10 AWS Attacker Techniques 2023  
+    
   </details>
 
 </details>

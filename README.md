@@ -1,15 +1,23 @@
 # Badges & Certifications
 This repository highlights my progress in cybersecurity certifications and learning achievements.
 
+
 ## 🧾 Certifications
+
+<details>
+  <summary>✅ Completed</summary>
+
+- Cybersecurity Fundamentals
+- [Add any other completed certifications here]
+
+</details>
+
+<details>
+  <summary>🚧 In Progress / Planned</summary>
+
 - Certified Internal Auditor (CIA) — In Progress
-- Cybersecurity Fundamentals — Completed
-- Security+ (Planned)
-
-- <details>
-  <summary>Click to expand</summary>
-
-  Hidden content goes here. You can include text, code, or even images.
+- Security+ — Planned
+- [Add any other planned certifications here]
 
 </details>
 

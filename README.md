@@ -31,7 +31,6 @@ This repository highlights my progress in cybersecurity certifications and learn
               - Secure Fundamentals  
               - Cyber 101  
           </details>
-          
         <details>
             <summary>🛡️ Defensive Cyber</summary>
               - Intro to Velociraptor  
@@ -39,7 +38,6 @@ This repository highlights my progress in cybersecurity certifications and learn
               - Splunk  
               - Incident Response
           </details> 
-          
         <details>
             <summary>☁️ Cloud Security</summary>
               - Amazon Web Services  

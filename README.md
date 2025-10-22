@@ -59,4 +59,4 @@ This repository highlights my progress in cybersecurity certifications and learn
 </details>
 
 ### 📈 Learning Progress
-Visuals and summaries of key milestones in my transition plan.
+Visuals and summaries of key milestones.

@@ -6,6 +6,13 @@ This repository highlights my progress in cybersecurity certifications and learn
 - Cybersecurity Fundamentals — Completed
 - Security+ (Planned)
 
+- <details>
+  <summary>Click to expand</summary>
+
+  Hidden content goes here. You can include text, code, or even images.
+
+</details>
+
 ## 🏅 Badges & Milestones
 - CIA Part 1 Completion Badge
 - Cybersecurity Fundamentals Badge

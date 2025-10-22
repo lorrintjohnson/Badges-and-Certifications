@@ -22,33 +22,31 @@ This repository highlights my progress in cybersecurity certifications and learn
 
 ## 🏅 Badges & Milestones
 <details>
-  <summary>Women in Cyber - Jan 2025-Mar 2025</summary>
-    
-    <details>
-      <summary>🧩 Fundamentals</summary>
-        - Linux Command Line  
-        - PowerShell Basics  
-        - Intro to Networking  
-        - Secure Fundamentals  
-        - Cyber 101  
-    </details>
-    
-    <details>
-      <summary>🛡️ Defensive Cyber</summary>
-        - Intro to Velociraptor  
-        - Threat Hunting  
-        - Splunk  
-        - Incident Response
-    </details> 
-    
-    <details>
-      <summary>☁️ Cloud Security</summary>
-        - Amazon Web Services  
-        - Incident Response & Forensics in AWS  
-        - Top 10 AWS Attacker Techniques 2023  
-    </details>
-    
-</details>
+    <summary>Women in Cyber - Jan 2025-Mar 2025</summary>
+        <details>
+            <summary>🧩 Fundamentals</summary>
+              - Linux Command Line  
+              - PowerShell Basics  
+              - Intro to Networking  
+              - Secure Fundamentals  
+              - Cyber 101  
+          </details>
+          
+        <details>
+            <summary>🛡️ Defensive Cyber</summary>
+              - Intro to Velociraptor  
+              - Threat Hunting  
+              - Splunk  
+              - Incident Response
+          </details> 
+          
+        <details>
+            <summary>☁️ Cloud Security</summary>
+              - Amazon Web Services  
+              - Incident Response & Forensics in AWS  
+              - Top 10 AWS Attacker Techniques 2023  
+          </details>
+  </details>
 - Another Badge 
 
 ## 📈 Learning Progress

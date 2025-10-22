@@ -2,7 +2,7 @@
 This repository highlights my progress in cybersecurity certifications and learning achievements.
 
 
-## 🧾 Certifications
+### 🧾 Certifications
 
 <details>
   <summary>✅ Completed</summary>
@@ -20,7 +20,7 @@ This repository highlights my progress in cybersecurity certifications and learn
 
 </details>
 
-## 🏅 Badges & Milestones
+### 🏅 Badges & Milestones
 
 
 <details>
@@ -58,6 +58,5 @@ This repository highlights my progress in cybersecurity certifications and learn
 
 </details>
 
-
-## 📈 Learning Progress
+### 📈 Learning Progress
 Visuals and summaries of key milestones in my transition plan.

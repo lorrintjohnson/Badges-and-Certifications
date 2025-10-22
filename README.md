@@ -23,8 +23,8 @@ This repository highlights my progress in cybersecurity certifications and learn
 ## 🏅 Badges & Milestones
 <details>
   <summary>Women in Cyber - Jan 2025-Mar 2025</summary>
-  
     <details>
+      
       <summary>🧩 Fundamentals</summary>
         - Linux Command Line  
         - PowerShell Basics  
